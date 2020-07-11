@@ -5,7 +5,7 @@
 - [Automatically Add Links to Your Pull Request Description](https://stefanbuck.com/blog/automatically-add-links-to-your-pull-request-description)
 - [Faster Refactoring with Comby](https://stefanbuck.com/blog/faster-refactoring-with-comby)
 
-# Pull Request Badge
+# Feature: Pull Request Badge
 
 Learn more about how [Pull Request Badge](https://pullrequestbadge.com/) helps to provide a consistent way to present meta information in your Pull Request description.  
 
