@@ -1,6 +1,7 @@
 
-# My latest blog posts ✍️
+# Latest blog posts ✍️
 
+- [Five Essential Tools I Have Used for Years](https://stefanbuck.com/blog/five-essential-tools-i-have-used-for-years)
 - [The Four Solutions to Solve the Problem](https://stefanbuck.com/blog/the-four-solutions-to-solve-the-problem)
 - [Automatically Add Links to Your Pull Request Description](https://stefanbuck.com/blog/automatically-add-links-to-your-pull-request-description)
 - [Faster Refactoring with Comby](https://stefanbuck.com/blog/faster-refactoring-with-comby)
