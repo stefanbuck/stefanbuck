@@ -1,14 +1,16 @@
+Hi! I'm Stefan, a staff engineer at [Brandwatch](https://brandwatch.com/).
 
-# Latest blog posts ✍️
+- 🚀 I’m currently working on helping our teams to develop features more quickly by modernizing our frontend stack from CI/CD to architecture.
+- 🌱 I’m currently learning how to promote my own product [Pull Request Badge](https://pullrequestbadge.com/) 
+- 💬 I’m looking to chat with other indie makers
+- ✍ I'm keen on sharing, ask me anything and check out my [blog](https://stefanbuck.com/blog).
+- 👋 Say hi – I'm [@buckstefan](https://twitter.com/buckstefan) on Twitter.
 
+
+### Recent blog posts
+
+- [My Favorite Podcasts](https://stefanbuck.com/blog/my-favorite-podcasts)
 - [Five Essential Tools I Have Used for Years](https://stefanbuck.com/blog/five-essential-tools-i-have-used-for-years)
 - [The Four Solutions to Solve the Problem](https://stefanbuck.com/blog/the-four-solutions-to-solve-the-problem)
 - [Automatically Add Links to Your Pull Request Description](https://stefanbuck.com/blog/automatically-add-links-to-your-pull-request-description)
 - [Faster Refactoring with Comby](https://stefanbuck.com/blog/faster-refactoring-with-comby)
-
-# Feature: Pull Request Badge
-
-Learn more about how [Pull Request Badge](https://pullrequestbadge.com/) helps to provide a consistent way to present meta information in your Pull Request description.  
-
-<a href="https://pullrequestbadge.com/"><img src="https://user-images.githubusercontent.com/1393946/75721049-e781f800-5cd7-11ea-9621-b78c247c511d.png" width="591"></a>
-
