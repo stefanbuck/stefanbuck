@@ -9,6 +9,7 @@ Hi! I'm Stefan, a staff engineer at [Brandwatch](https://brandwatch.com/).
 
 ### Recent blog posts
 
+- [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
 - [My Favorite Podcasts](https://stefanbuck.com/blog/my-favorite-podcasts)
 - [Five Essential Tools I Have Used for Years](https://stefanbuck.com/blog/five-essential-tools-i-have-used-for-years)
 - [The Four Solutions to Solve the Problem](https://stefanbuck.com/blog/the-four-solutions-to-solve-the-problem)
