@@ -5,6 +5,7 @@ Hi! I'm Stefan, a staff engineer at [Brandwatch](https://brandwatch.com/).
 - 💬 I’m looking to chat with other indie makers
 - ✍ I'm keen on sharing, ask me anything and check out my [blog](https://stefanbuck.com/blog).
 - 👋 Say hi – I'm [@buckstefan](https://twitter.com/buckstefan) on Twitter.
+- ❤ If you like what I do, consider becoming a [GitHub Sponsor](https://github.com/sponsors/stefanbuck) – Thank you.
 
 
 ### Recent blog posts
