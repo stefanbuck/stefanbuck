@@ -1,7 +1,7 @@
 Hi! I'm Stefan, a staff engineer at [Brandwatch](https://brandwatch.com/).
 
-- 🚀 I’m currently working on helping our teams to develop features more quickly by modernizing our frontend stack from CI/CD to architecture.
-- 🌱 I’m currently learning how to promote my own product [Pull Request Badge](https://pullrequestbadge.com/) 
+- 🐈 I’m currently working on Jumpcat](https://jumpcat.dev/), a browser extension that brings you a VSCode like command palette to GitHub.
+- 🌱 I’m currently learning how to promote my own product [Pull Request Badge](https://pullrequestbadge.com/)
 - 💬 I’m looking to chat with other indie makers
 - ✍ I'm keen on sharing, ask me anything and check out my [blog](https://stefanbuck.com/blog).
 - 👋 Say hi – I'm [@buckstefan](https://twitter.com/buckstefan) on Twitter.
