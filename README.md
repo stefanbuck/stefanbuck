@@ -10,6 +10,7 @@ Hi! I'm Stefan, a staff engineer at [Brandwatch](https://brandwatch.com/).
 
 ### Recent blog posts
 
+- [Codeless Contributions with GitHub Issue Forms](https://stefanbuck.com/blog/codeless-contributions-with-github-issue-forms)
 - [Repository Templates Meets GitHub Actions](https://stefanbuck.com/blog/repository-templates-meets-github-actions)
 - [10 Tips to Get Faster Code Reviews](https://stefanbuck.com/blog/10-tips-faster-code-reviews)
 - [Internationalizing a Web Application with Half a Million Lines of Code (Part 1)](https://stefanbuck.com/blog/internationalizing-application-with-half-a-million-lines-of-code-part-1)
